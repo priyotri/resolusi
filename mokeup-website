@@ -1,14 +1,21 @@
 Mokeup Website eBahasa
 
-- Login
-- Register (auto payments)
-  *bank
-  *atm
-- Database accountant
-  *autosave
-- Vidio Training
-- Aplikasi Ujian
-- Final Exam
-- Admin Chat
-- Store
-- aplikasi
+Sistem login
+ebahasa dashboard
+ -User
+  * home
+  * team
+  * Training
+  * Exercise
+  * Shop
+ -Admin
+  * tambah user
+  * add profile team
+  * add product
+  * add vidio
+  * add soal
+  * transactions
+  * laporan
+  
+Nb : profile team sebagai bagian dari edukasi supaya member mau ikut studyclub dengan tujuan merekomendasikan products dari sini
+ 
